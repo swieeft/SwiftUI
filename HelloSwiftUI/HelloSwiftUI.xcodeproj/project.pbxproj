@@ -14,6 +14,7 @@
 		B52053A3266740EB003AE58D /* TextSample.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52053A2266740EB003AE58D /* TextSample.swift */; };
 		B52053A5266744D9003AE58D /* ImageSample.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52053A4266744D9003AE58D /* ImageSample.swift */; };
 		B5E280A42668ACAF003B409F /* SFSymbolSample.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E280A32668ACAF003B409F /* SFSymbolSample.swift */; };
+		B5E280A62668D0E2003B409F /* StackSample.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E280A52668D0E2003B409F /* StackSample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		B52053A2266740EB003AE58D /* TextSample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextSample.swift; sourceTree = "<group>"; };
 		B52053A4266744D9003AE58D /* ImageSample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSample.swift; sourceTree = "<group>"; };
 		B5E280A32668ACAF003B409F /* SFSymbolSample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SFSymbolSample.swift; sourceTree = "<group>"; };
+		B5E280A52668D0E2003B409F /* StackSample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackSample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				B52053A2266740EB003AE58D /* TextSample.swift */,
 				B52053A4266744D9003AE58D /* ImageSample.swift */,
 				B5E280A32668ACAF003B409F /* SFSymbolSample.swift */,
+				B5E280A52668D0E2003B409F /* StackSample.swift */,
 			);
 			path = HelloSwiftUI;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5E280A62668D0E2003B409F /* StackSample.swift in Sources */,
 				B520539626671E0C003AE58D /* ContentView.swift in Sources */,
 				B5E280A42668ACAF003B409F /* SFSymbolSample.swift in Sources */,
 				B52053A5266744D9003AE58D /* ImageSample.swift in Sources */,

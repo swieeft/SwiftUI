@@ -20,6 +20,7 @@
 		B5AA15C5266F3CEC0013B869 /* ListSample.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5AA15C4266F3CEC0013B869 /* ListSample.swift */; };
 		B5BD751A2671A33300F80FE6 /* DragGestureSample.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5BD75192671A33300F80FE6 /* DragGestureSample.swift */; };
 		B5BD751C2671A4DF00F80FE6 /* FrameSample.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5BD751B2671A4DF00F80FE6 /* FrameSample.swift */; };
+		B5BD751E2671AA2200F80FE6 /* LayoutPriority.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5BD751D2671AA2200F80FE6 /* LayoutPriority.swift */; };
 		B5E280A42668ACAF003B409F /* SFSymbolSample.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E280A32668ACAF003B409F /* SFSymbolSample.swift */; };
 		B5E280A62668D0E2003B409F /* StackSample.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5E280A52668D0E2003B409F /* StackSample.swift */; };
 		B5FDBEE9267062D60004FFFE /* GeometryReaderSample.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5FDBEE8267062D60004FFFE /* GeometryReaderSample.swift */; };
@@ -41,6 +42,7 @@
 		B5AA15C4266F3CEC0013B869 /* ListSample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListSample.swift; sourceTree = "<group>"; };
 		B5BD75192671A33300F80FE6 /* DragGestureSample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureSample.swift; sourceTree = "<group>"; };
 		B5BD751B2671A4DF00F80FE6 /* FrameSample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameSample.swift; sourceTree = "<group>"; };
+		B5BD751D2671AA2200F80FE6 /* LayoutPriority.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LayoutPriority.swift; sourceTree = "<group>"; };
 		B5E280A32668ACAF003B409F /* SFSymbolSample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SFSymbolSample.swift; sourceTree = "<group>"; };
 		B5E280A52668D0E2003B409F /* StackSample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackSample.swift; sourceTree = "<group>"; };
 		B5FDBEE8267062D60004FFFE /* GeometryReaderSample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderSample.swift; sourceTree = "<group>"; };
@@ -93,6 +95,7 @@
 				B5FDBEE8267062D60004FFFE /* GeometryReaderSample.swift */,
 				B5BD75192671A33300F80FE6 /* DragGestureSample.swift */,
 				B5BD751B2671A4DF00F80FE6 /* FrameSample.swift */,
+				B5BD751D2671AA2200F80FE6 /* LayoutPriority.swift */,
 			);
 			path = HelloSwiftUI;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 				B5AA15C5266F3CEC0013B869 /* ListSample.swift in Sources */,
 				B5919128266F35E30023E1E4 /* NavigationLinkSample.swift in Sources */,
 				B52053A3266740EB003AE58D /* TextSample.swift in Sources */,
+				B5BD751E2671AA2200F80FE6 /* LayoutPriority.swift in Sources */,
 				B520539426671E0C003AE58D /* HelloSwiftUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

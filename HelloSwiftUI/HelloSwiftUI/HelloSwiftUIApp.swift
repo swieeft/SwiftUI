@@ -11,7 +11,11 @@ import SwiftUI
 struct HelloSwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ContentView()
+//            ButtonSample()
+//            NavigationLinkSample()
+//            NavigationDoubleColumnStyle()
+            GeometryReaderSample()
         }
     }
 }

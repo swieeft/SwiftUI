@@ -43,6 +43,6 @@ struct LayoutPriority: View {
 
 struct LayoutPriority_Previews: PreviewProvider {
     static var previews: some View {
-        LayoutPriority()
+        LayoutPriority().previewDevice(PreviewDevice(rawValue: "iPhone 12 Pro")).previewDisplayName("aaa")
     }
 }
